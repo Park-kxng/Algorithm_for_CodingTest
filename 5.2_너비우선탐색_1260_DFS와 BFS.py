@@ -29,17 +29,7 @@ def DFS(v):
             DFS(i)
 
 
-def BFS(v):
-    q = deque()
-    q.append(v)
-    visited[v] = True
-    while q:
-        now_node = q.popleft()
-        print(now_node, end= ' ')
-        for i in ad_list[now_node]:
-            if not visited[i]:
-                visited[i] = True
-                q.append(i)
+
 
 visited = [False] * (n+1)
 DFS(start)

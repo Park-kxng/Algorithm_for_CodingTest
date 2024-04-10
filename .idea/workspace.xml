@@ -5,22 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f077cd74-0654-4541-a295-c178cbb35597" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/구현_1-1_상하좌우.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/구현_1-1_상하좌우.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/구현_1-2_시각.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/구현_1-2_시각.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/구현_2_왕실의 나이트.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/구현_2_왕실의 나이트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/구현_3_게임개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/구현_3_게임개발.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/4_미로탈출.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2eucr5CEy0Ciz03nPBwzVLJNUHh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,16 +33,51 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1_DFS.executor": "Run",
+    "Python.2_BFS.executor": "Run",
+    "Python.3_음료수 얼려먹기.executor": "Run",
+    "Python.4_미로탈출.executor": "Debug",
+    "Python.coding test.executor": "Run",
     "Python.구현_3_게임개발.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/p_kxn_g/Documents/GitHub/Algorithm_for_CodingTest"
+    "last_opened_file_path": "/Users/p_kxn_g/Documents/GitHub/Algorithm_for_CodingTest",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/삼성 코테 대비/구현" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="coding test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm_for_CodingTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/DFS BFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/4_미로탈출.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.coding test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -84,6 +124,36 @@
           <url>file://$PROJECT_DIR$/삼성 코테 대비/구현/구현_3_게임개발.py</url>
           <line>62</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/DFS BFS/3_음료수 얼려먹기.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/DFS BFS/3_음료수 얼려먹기.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/DFS BFS/4_미로탈출.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/DFS BFS/4_미로탈출.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/DFS BFS/4_미로탈출.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/DFS BFS/4_미로탈출.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

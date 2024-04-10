@@ -83,3 +83,6 @@ for i in range(n):
 
 
 print(answer)
+
+from collections import  deque
+q = deque()

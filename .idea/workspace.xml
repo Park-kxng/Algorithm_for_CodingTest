@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f077cd74-0654-4541-a295-c178cbb35597" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/DP/1로 만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/백트래킹/2_1부터 N까지 숫자 중 합이 10이 되는 조합 구하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/백트래킹/3_스도쿠 퍼즐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/A형 기출/파이프 옮기기 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/DP/기본 예제. 피보나치 수열.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +42,8 @@
     "Python.4_미로탈출.executor": "Debug",
     "Python.coding test.executor": "Run",
     "Python.구현_3_게임개발.executor": "Run",
+    "Python.기본 예제. 피보나치 수열.executor": "Run",
+    "Python.파이프 옮기기 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/p_kxn_g/Documents/GitHub/Algorithm_for_CodingTest",
@@ -54,7 +55,51 @@
       <recent name="$PROJECT_DIR$/삼성 코테 대비/구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1로 만들기">
+  <component name="RunManager" selected="Python.파이프 옮기기 1">
+    <configuration name="파이프 옮기기 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_for_CodingTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/A형 기출" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/A형 기출/파이프 옮기기 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="기본 예제. 피보나치 수열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_for_CodingTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/DP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/DP/기본 예제. 피보나치 수열.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1로 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
@@ -69,28 +114,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/DP/1로 만들기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2_1부터 N까지 숫자 중 합이 10이 되는 조합 구하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_for_CodingTest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/백트래킹" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/백트래킹/2_1부터 N까지 숫자 중 합이 10이 되는 조합 구하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,8 +146,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.파이프 옮기기 1" />
+        <item itemvalue="Python.기본 예제. 피보나치 수열" />
         <item itemvalue="Python.1로 만들기" />
-        <item itemvalue="Python.2_1부터 N까지 숫자 중 합이 10이 되는 조합 구하기" />
         <item itemvalue="Python.coding test" />
       </list>
     </recent_temporary>

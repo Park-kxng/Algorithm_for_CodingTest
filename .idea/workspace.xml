@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f077cd74-0654-4541-a295-c178cbb35597" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/A형 기출/파이프 옮기기 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/DP/기본 예제. 피보나치 수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/c_2_방향 회전을 위한 dx, dy 정의 방법.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/c_3_격자에서의 dx, dy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/c_4_조건에 따라 방향이 변하는 경우.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/스택.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +42,13 @@
     "Python.2_BFS.executor": "Run",
     "Python.3_음료수 얼려먹기.executor": "Run",
     "Python.4_미로탈출.executor": "Debug",
+    "Python.T.executor": "Run",
+    "Python.c_3_격자에서의 dx, dy.executor": "Run",
+    "Python.c_4_조건에 따라 방향이 변하는 경우.executor": "Run",
     "Python.coding test.executor": "Run",
     "Python.구현_3_게임개발.executor": "Run",
     "Python.기본 예제. 피보나치 수열.executor": "Run",
+    "Python.스택.executor": "Run",
     "Python.파이프 옮기기 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -52,10 +58,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/삼성 코테 대비" />
       <recent name="$PROJECT_DIR$/삼성 코테 대비/구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.파이프 옮기기 1">
+  <component name="RunManager" selected="Python.c_4_조건에 따라 방향이 변하는 경우">
     <configuration name="파이프 옮기기 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
@@ -100,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1로 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="스택" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/A형 기출" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/DP/1로 만들기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/스택.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="coding test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="c_3_격자에서의 dx, dy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,11 +138,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/DFS BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/구현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/4_미로탈출.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/c_3_격자에서의 dx, dy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="c_4_조건에 따라 방향이 변하는 경우" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_for_CodingTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/c_4_조건에 따라 방향이 변하는 경우.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,10 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.c_4_조건에 따라 방향이 변하는 경우" />
+        <item itemvalue="Python.c_3_격자에서의 dx, dy" />
+        <item itemvalue="Python.스택" />
         <item itemvalue="Python.파이프 옮기기 1" />
         <item itemvalue="Python.기본 예제. 피보나치 수열" />
-        <item itemvalue="Python.1로 만들기" />
-        <item itemvalue="Python.coding test" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +258,11 @@
           <url>file://$PROJECT_DIR$/삼성 코테 대비/DFS BFS/4_미로탈출.py</url>
           <line>14</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/구현/c_4_조건에 따라 방향이 변하는 경우.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

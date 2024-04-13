@@ -5,16 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f077cd74-0654-4541-a295-c178cbb35597" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/dx,dy 테크닉/c_5_빙빙 돌며 숫자 적기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/객체/2_객체 생성 및 값 변경.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/객체/3_객체를 원소로 하는 리스트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/일반 정렬/1_숫자 정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/일반 정렬/2_ 문자열 정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/1_dx,dy 테크닉/c_2_방향 회전을 위한 dx, dy 정의 방법.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/1_dx,dy 테크닉/c_3_격자에서의 dx, dy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/1_dx,dy 테크닉/c_4_조건에 따라 방향이 변하는 경우.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/1_dx,dy 테크닉/c_5_빙빙 돌며 숫자 적기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/2_객체/1_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/2_객체/2_객체 생성 및 값 변경.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/2_객체/3_객체를 원소로 하는 리스트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/3_일반 정렬/1_숫자 정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/3_일반 정렬/2_ 문자열 정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/4_객체 정렬/1_객체정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/4_객체 정렬/2_여러 우선순위를 갖는 객체 정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/4_객체 정렬/3_정렬 기준이 복잡한 객체 정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/4_객체 정렬/4_객체 정렬시 index 멤버 변수의 필요성.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/5_격자 안에서의 완전탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/6_ 격자 안에서 밀고 당기기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/7_격자 안에서 터지고 떨어지는 경우.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/8_격자 안에서 단일 객체를 이동.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/9_격자 안에서 여러 객체를 이동.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/구현/c_2_방향 회전을 위한 dx, dy 정의 방법.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/dx,dy 테크닉/c_2_방향 회전을 위한 dx, dy 정의 방법.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/구현/c_3_격자에서의 dx, dy.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/dx,dy 테크닉/c_3_격자에서의 dx, dy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/구현/c_4_조건에 따라 방향이 변하는 경우.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/dx,dy 테크닉/c_4_조건에 따라 방향이 변하는 경우.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/구현/c_5_빙빙 돌며 숫자 적기.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/구현/객체/1_class.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +52,23 @@
   "keyToString": {
     "Python.1_DFS.executor": "Run",
     "Python.1_class.executor": "Run",
+    "Python.1_객체정렬.executor": "Run",
     "Python.1로 만들기.executor": "Run",
     "Python.2_1부터 N까지 숫자 중 합이 10이 되는 조합 구하기.executor": "Run",
     "Python.2_BFS.executor": "Run",
     "Python.2_객체 생성 및 값 변경.executor": "Run",
+    "Python.2_여러 우선순위를 갖는 객체 정렬.executor": "Run",
     "Python.3_객체를 원소로 하는 리스트.executor": "Run",
     "Python.3_음료수 얼려먹기.executor": "Run",
+    "Python.3_정렬 기준이 복잡한 객체 정렬.executor": "Run",
+    "Python.4_객체 정렬시 index 멤버 변수의 필요성.executor": "Run",
     "Python.4_미로탈출.executor": "Debug",
+    "Python.5_ 격자 안에서 밀고 당기기.executor": "Run",
+    "Python.5_격자 안에서의 완전탐색.executor": "Run",
+    "Python.6_ 격자 안에서 밀고 당기기.executor": "Run",
+    "Python.7_격자 안에서 터지고 떨어지는 경우.executor": "Run",
+    "Python.8_격자 안에서 단일 객체를 이동.executor": "Run",
+    "Python.9_격자 안에서 여러 객체를 이동.executor": "Run",
     "Python.T.executor": "Run",
     "Python.c_3_격자에서의 dx, dy.executor": "Run",
     "Python.c_4_조건에 따라 방향이 변하는 경우.executor": "Debug",
@@ -72,74 +91,8 @@
       <recent name="$PROJECT_DIR$/삼성 코테 대비/구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3_객체를 원소로 하는 리스트">
-    <configuration name="1_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_for_CodingTest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/구현/객체" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/객체/1_class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2_객체 생성 및 값 변경" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_for_CodingTest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/구현/객체" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/객체/2_객체 생성 및 값 변경.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3_객체를 원소로 하는 리스트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_for_CodingTest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/구현/객체" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/객체/3_객체를 원소로 하는 리스트.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="c_4_조건에 따라 방향이 변하는 경우" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.9_격자 안에서 여러 객체를 이동">
+    <configuration name="5_격자 안에서의 완전탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/dx,dy 테크닉/c_4_조건에 따라 방향이 변하는 경우.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/5_격자 안에서의 완전탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="c_5_빙빙 돌며 숫자 적기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6_ 격자 안에서 밀고 당기기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,7 +127,73 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/dx,dy 테크닉/c_5_빙빙 돌며 숫자 적기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/6_ 격자 안에서 밀고 당기기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7_격자 안에서 터지고 떨어지는 경우" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_for_CodingTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/7_격자 안에서 터지고 떨어지는 경우.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8_격자 안에서 단일 객체를 이동" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_for_CodingTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/8_격자 안에서 단일 객체를 이동.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9_격자 안에서 여러 객체를 이동" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_for_CodingTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/9_격자 안에서 여러 객체를 이동.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_객체를 원소로 하는 리스트" />
-        <item itemvalue="Python.2_객체 생성 및 값 변경" />
-        <item itemvalue="Python.1_class" />
-        <item itemvalue="Python.c_5_빙빙 돌며 숫자 적기" />
-        <item itemvalue="Python.c_4_조건에 따라 방향이 변하는 경우" />
+        <item itemvalue="Python.9_격자 안에서 여러 객체를 이동" />
+        <item itemvalue="Python.8_격자 안에서 단일 객체를 이동" />
+        <item itemvalue="Python.7_격자 안에서 터지고 떨어지는 경우" />
+        <item itemvalue="Python.5_격자 안에서의 완전탐색" />
+        <item itemvalue="Python.6_ 격자 안에서 밀고 당기기" />
       </list>
     </recent_temporary>
   </component>
@@ -278,6 +297,21 @@
           <url>file://$PROJECT_DIR$/삼성 코테 대비/구현/dx,dy 테크닉/c_5_빙빙 돌며 숫자 적기.py</url>
           <line>6</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/구현/6_ 격자 안에서 밀고 당기기.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/구현/6_ 격자 안에서 밀고 당기기.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/구현/8_격자 안에서 단일 객체를 이동.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

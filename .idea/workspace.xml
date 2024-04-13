@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f077cd74-0654-4541-a295-c178cbb35597" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/1_DFS/1_그래프 상에서의 DFS 탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/1_DFS/2_그리드 상에서의 DFS 탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/2_BFS/2_BFS_네 방향 탈출 가능 여부 판별하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/2_BFS/3_가중치가 동일한 그래프에서의 BFS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,12 +38,15 @@
     "Python.1_DFS.executor": "Run",
     "Python.1_class.executor": "Run",
     "Python.1_객체정렬.executor": "Run",
-    "Python.1_그래프 상에서의 DFS 탐색.executor": "Debug",
+    "Python.1_그래프 상에서의 DFS 탐색.executor": "Run",
     "Python.1로 만들기.executor": "Run",
     "Python.2_1부터 N까지 숫자 중 합이 10이 되는 조합 구하기.executor": "Run",
     "Python.2_BFS.executor": "Run",
+    "Python.2_BFS_네 방향 탈출 가능 여부 판별하기.executor": "Run",
     "Python.2_객체 생성 및 값 변경.executor": "Run",
+    "Python.2_그리드 상에서의 DFS 탐색.executor": "Run",
     "Python.2_여러 우선순위를 갖는 객체 정렬.executor": "Run",
+    "Python.3_가중치가 동일한 그래프에서의 BFS.executor": "Run",
     "Python.3_객체를 원소로 하는 리스트.executor": "Run",
     "Python.3_음료수 얼려먹기.executor": "Run",
     "Python.3_정렬 기준이 복잡한 객체 정렬.executor": "Run",
@@ -70,12 +75,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/2_BFS" />
       <recent name="$PROJECT_DIR$/삼성 코테 대비/구현/dx,dy 테크닉" />
       <recent name="$PROJECT_DIR$/삼성 코테 대비" />
       <recent name="$PROJECT_DIR$/삼성 코테 대비/구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1_그래프 상에서의 DFS 탐색">
+  <component name="RunManager" selected="Python.3_가중치가 동일한 그래프에서의 BFS">
     <configuration name="1_그래프 상에서의 DFS 탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
@@ -98,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_격자 안에서의 완전탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_그리드 상에서의 DFS 탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/구현" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/1_DFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/5_격자 안에서의 완전탐색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/1_DFS/2_그리드 상에서의 DFS 탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7_격자 안에서 터지고 떨어지는 경우" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_BFS_네 방향 탈출 가능 여부 판별하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/구현" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/2_BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/7_격자 안에서 터지고 떨어지는 경우.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/2_BFS/2_BFS_네 방향 탈출 가능 여부 판별하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8_격자 안에서 단일 객체를 이동" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_가중치가 동일한 그래프에서의 BFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/구현" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/2_BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/구현/8_격자 안에서 단일 객체를 이동.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/2_BFS/3_가중치가 동일한 그래프에서의 BFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3_가중치가 동일한 그래프에서의 BFS" />
+        <item itemvalue="Python.2_BFS_네 방향 탈출 가능 여부 판별하기" />
+        <item itemvalue="Python.2_그리드 상에서의 DFS 탐색" />
         <item itemvalue="Python.1_그래프 상에서의 DFS 탐색" />
         <item itemvalue="Python.9_격자 안에서 여러 객체를 이동" />
-        <item itemvalue="Python.8_격자 안에서 단일 객체를 이동" />
-        <item itemvalue="Python.7_격자 안에서 터지고 떨어지는 경우" />
-        <item itemvalue="Python.5_격자 안에서의 완전탐색" />
       </list>
     </recent_temporary>
   </component>
@@ -299,8 +305,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/삼성 코테 대비/DFS BFS/1_DFS/1_그래프 상에서의 DFS 탐색.py</url>
-          <line>11</line>
+          <line>13</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/DFS BFS/1_DFS/2_그리드 상에서의 DFS 탐색.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/DFS BFS/2_BFS/2_BFS_네 방향 탈출 가능 여부 판별하기.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/DFS BFS/2_BFS/3_가중치가 동일한 그래프에서의 BFS.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

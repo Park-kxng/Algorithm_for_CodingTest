@@ -5,21 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f077cd74-0654-4541-a295-c178cbb35597" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오전 1번 문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오전 2번 문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오후 1번 문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오후 2번 문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오전 1번 문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오전 2번 문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오후 1번 문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오후 2번 문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출/2023 상반기 오전 1번 - 포탑 부수기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/2_n개 중 m개 고르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/코드트리/시간 최적화/1_괄호 쌍 만들어주기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/코드트리/시간 최적화/우선순위큐_2_큰 숫자만 계속 고르기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오전 1번.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오전 2번.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오후 1번.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오후 2번.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오전 1번.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오전 2번.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오후 1번.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오후 2번.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오후 2번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오후 2번 문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오전 2번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오전 2번 문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/기출/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +103,7 @@
       <recent name="$PROJECT_DIR$/삼성 코테 대비/구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2023 상반기 오전 1번 - 포탑 부수기">
+  <component name="RunManager" selected="Python.test">
     <configuration name="1_괄호 쌍 만들어주기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
@@ -218,8 +216,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2023 상반기 오전 1번 - 포탑 부수기" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.2023 상반기 오전 1번 - 포탑 부수기" />
         <item itemvalue="Python.우선순위큐_2_큰 숫자만 계속 고르기" />
         <item itemvalue="Python.1_괄호 쌍 만들어주기" />
         <item itemvalue="Python.2_n개 중 m개 고르기" />
@@ -243,6 +241,17 @@
       <updated>1712758099808</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -376,6 +385,11 @@
           <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
           <line>19</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오전 2번 문제.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

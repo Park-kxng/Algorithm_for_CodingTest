@@ -5,19 +5,127 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f077cd74-0654-4541-a295-c178cbb35597" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오전 1번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오전 2번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오후 1번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오후 2번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오전 1번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오전 2번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오후 1번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오후 2번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성 코테 대비/기출/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스/기출_백준_틱택토.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/백트래킹/3_스도쿠 퍼즐.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오후 2번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오후 2번 문제.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오전 2번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오전 2번 문제.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성 코테 대비/기출/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_조합_11050_이항계수 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/10.1_조합_11050_이항계수 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.1_동적계획법_14501_퇴사준비하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/11.1_동적계획법_14501_퇴사준비하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.1_동적계획법_1463_1로 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/11.1_동적계획법_1463_1로 만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.1_기하_11758_CCW.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/12.1_기하_11758_CCW.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.1_기하_17387_선분의 교차여부 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/12.1_기하_17387_선분의 교차여부 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.1_기하_2166_다각형의 넓이 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/12.1_기하_2166_다각형의 넓이 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_리스트_11720_숫자의 합 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.1_리스트_11720_숫자의 합 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_리스트_1546_평균 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.1_리스트_1546_평균 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.2_구간합_10986_나머지합구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.2_구간합_10986_나머지합구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.2_구간합_11659_구간합구하기4.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.2_구간합_11659_구간합구하기4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.2_구간합_11659_구간합구하기4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.2_구간합_11659_구간합구하기4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.2_구간합_11660_구간합구하기2.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.2_구간합_11660_구간합구하기2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.3_투포인터_1253_좋은 수 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.3_투포인터_1253_좋은 수 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.3_투포인터_1940_주몽의 명령.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.3_투포인터_1940_주몽의 명령.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.3_투포인터_2018_연속된 자연수의 합 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.3_투포인터_2018_연속된 자연수의 합 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.4_슬라이딩윈도우_11003_최솟값 찾기1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.4_슬라이딩윈도우_11003_최솟값 찾기1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.4_슬라이딩윈도우_12891_DNA비밀번호.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.4_슬라이딩윈도우_12891_DNA비밀번호.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.5_스택과 큐_11286_절댓값 힙 구현하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.5_스택과 큐_11286_절댓값 힙 구현하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.5_스택과 큐_17298_오큰수.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.5_스택과 큐_17298_오큰수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.5_스택과 큐_1874_스택 수열.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.5_스택과 큐_1874_스택 수열.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.5_스택과 큐_2164_카드게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/3.5_스택과 큐_2164_카드게임.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.1_버블정렬_1377_버블정렬프로그램1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/4.1_버블정렬_1377_버블정렬프로그램1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.1_버블정렬_2750_수 정렬하기1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/4.1_버블정렬_2750_수 정렬하기1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.2_선택정렬_1427_소트인사이드.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/4.2_선택정렬_1427_소트인사이드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.3_삽입정렬_11399_ATM.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/4.3_삽입정렬_11399_ATM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.4_퀵정렬_11004_K번째 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/4.4_퀵정렬_11004_K번째 수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.5_기수정렬_10989_수정렬하기3.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/4.5_기수정렬_10989_수정렬하기3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.5_병합정렬_2751_수정렬하기2.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/4.5_병합정렬_2751_수정렬하기2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.2_너비우선탐색_1260_DFS와 BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/5.2_너비우선탐색_1260_DFS와 BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.2_너비우선탐색_2178_미로 탐색하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/5.2_너비우선탐색_2178_미로 탐색하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.1_그리디_1744_수를 묶어서 최댓값 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/6.1_그리디_1744_수를 묶어서 최댓값 만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.1_정수론_1747_소수 &amp; 팰린드롬.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/7.1_정수론_1747_소수 &amp; 팰린드롬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.1_정수론_1929_소수 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/7.1_정수론_1929_소수 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.2_오일러 피 함수_11689_오일러 피 함수 구현하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/7.2_오일러 피 함수_11689_오일러 피 함수 구현하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.3_유클리드 호제_1033_최대공약수.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/7.3_유클리드 호제_1033_최대공약수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.3_유클리드 호제_1934_최소공배수.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/7.3_유클리드 호제_1934_최소공배수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.4_확장된 유클리드 호제_21568_Ax + By = C.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/7.4_확장된 유클리드 호제_21568_Ax + By = C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.1_그래프의 표현_18352_특정 거리의 도시 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/8.1_그래프의 표현_18352_특정 거리의 도시 찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.2_유니온 파인드_1717_집합 표현하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/8.2_유니온 파인드_1717_집합 표현하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.3_위상정렬_1516_게임 개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/8.3_위상정렬_1516_게임 개발.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.3_위상정렬_2252_줄 세우기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/8.3_위상정렬_2252_줄 세우기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.4_다익스트라_1753_최단 경로.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/8.4_다익스트라_1753_최단 경로.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.5_벨만 포드_11657_타임머신으로 빨리 가기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/8.5_벨만 포드_11657_타임머신으로 빨리 가기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.6_플로이드 워셜_11404_플로이드.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/8.6_플로이드 워셜_11404_플로이드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.7_최소 신장 트리_1197_최소 스패닝 트리.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/8.7_최소 신장 트리_1197_최소 스패닝 트리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.1_트리 알아보기_11725_트리의 부모 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/9.1_트리 알아보기_11725_트리의 부모 찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.2_트라이_14425_문자열 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/9.2_트라이_14425_문자열 찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.3_이진트리_1991_트리 순회하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/9.3_이진트리_1991_트리 순회하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.4_세그먼트 트리_2042_구간 합 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/9.4_세그먼트 트리_2042_구간 합 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.5_최소 공통 조상_11437_LCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/9.5_최소 공통 조상_11437_LCA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS_13023_친구관계 파악하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/DFS_13023_친구관계 파악하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS_2023_신기한 소수 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/DFS_2023_신기한 소수 찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS_연결요소의 개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/DFS_연결요소의 개수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/그리디_11047_동전0.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/그리디_11047_동전0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/그리디_1715_카드정렬하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/그리디_1715_카드정렬하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/A형 기출/파이프 옮기기 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/A형 기출/파이프 옮기기 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오전 1번.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2022/상반기 오전 1번.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오전 2번.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2022/상반기 오전 2번.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오후 1번.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2022/상반기 오후 1번.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/상반기 오후 2번.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2022/상반기 오후 2번.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오전 1번.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2022/하반기 오전 1번.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오전 2번.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2022/하반기 오전 2번.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오후 1번.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2022/하반기 오후 1번.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2022/하반기 오후 2번.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2022/하반기 오후 2번.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오전 1번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2023/2023 상반기 오전 1번 문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오전 2번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2023/2023 상반기 오전 2번 문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오후 1번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2023/2023 상반기 오후 1번 문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오후 2번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2023/2023 상반기 오후 2번 문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오전 1번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2023/2023 하반기 오전 1번 문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오전 2번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2023/2023 하반기 오전 2번 문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오후 1번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2023/2023 하반기 오후 1번 문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 하반기 오후 2번 문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2023/2023 하반기 오후 2번 문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출/2023 상반기 오전 1번 - 포탑 부수기.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출/2023 상반기 오전 1번 - 포탑 부수기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/기출/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/기출/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/스택.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/스택.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/1_DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/1_DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/1_DFS/1_그래프 상에서의 DFS 탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/1_DFS/1_그래프 상에서의 DFS 탐색.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/1_DFS/2_그리드 상에서의 DFS 탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/1_DFS/2_그리드 상에서의 DFS 탐색.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/2_BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/2_BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/2_BFS/2_BFS_네 방향 탈출 가능 여부 판별하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/2_BFS/2_BFS_네 방향 탈출 가능 여부 판별하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/2_BFS/3_가중치가 동일한 그래프에서의 BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/2_BFS/3_가중치가 동일한 그래프에서의 BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/3_음료수 얼려먹기.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/3_음료수 얼려먹기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/4_미로탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/4_미로탈출.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/DP/1로 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DP/1로 만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/DP/기본 예제. 피보나치 수열.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DP/기본 예제. 피보나치 수열.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/1_dx,dy 테크닉/c_2_방향 회전을 위한 dx, dy 정의 방법.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/1_dx,dy 테크닉/c_2_방향 회전을 위한 dx, dy 정의 방법.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/1_dx,dy 테크닉/c_3_격자에서의 dx, dy.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/1_dx,dy 테크닉/c_3_격자에서의 dx, dy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/1_dx,dy 테크닉/c_4_조건에 따라 방향이 변하는 경우.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/1_dx,dy 테크닉/c_4_조건에 따라 방향이 변하는 경우.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/1_dx,dy 테크닉/c_5_빙빙 돌며 숫자 적기.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/1_dx,dy 테크닉/c_5_빙빙 돌며 숫자 적기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/2_객체/1_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/2_객체/1_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/2_객체/2_객체 생성 및 값 변경.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/2_객체/2_객체 생성 및 값 변경.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/2_객체/3_객체를 원소로 하는 리스트.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/2_객체/3_객체를 원소로 하는 리스트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/3_일반 정렬/1_숫자 정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/3_일반 정렬/1_숫자 정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/3_일반 정렬/2_ 문자열 정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/3_일반 정렬/2_ 문자열 정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/4_객체 정렬/1_객체정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/4_객체 정렬/1_객체정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/4_객체 정렬/2_여러 우선순위를 갖는 객체 정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/4_객체 정렬/2_여러 우선순위를 갖는 객체 정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/4_객체 정렬/3_정렬 기준이 복잡한 객체 정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/4_객체 정렬/3_정렬 기준이 복잡한 객체 정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/4_객체 정렬/4_객체 정렬시 index 멤버 변수의 필요성.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/4_객체 정렬/4_객체 정렬시 index 멤버 변수의 필요성.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/5_격자 안에서의 완전탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/5_격자 안에서의 완전탐색.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/6_ 격자 안에서 밀고 당기기.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/6_ 격자 안에서 밀고 당기기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/7_격자 안에서 터지고 떨어지는 경우.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/7_격자 안에서 터지고 떨어지는 경우.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/8_격자 안에서 단일 객체를 이동.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/8_격자 안에서 단일 객체를 이동.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/9_격자 안에서 여러 객체를 이동.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/9_격자 안에서 여러 객체를 이동.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/구현_1-1_상하좌우.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/구현_1-1_상하좌우.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/구현_1-2_시각.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/구현_1-2_시각.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/구현_2_왕실의 나이트.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/구현_2_왕실의 나이트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/구현_3_게임개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/구현_3_게임개발.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/2_1부터 N까지 숫자 중 합이 10이 되는 조합 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/백트래킹/2_1부터 N까지 숫자 중 합이 10이 되는 조합 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/2_n개 중 m개 고르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/백트래킹/2_n개 중 m개 고르기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/3_스도쿠 퍼즐.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/시간 최적화/1_괄호 쌍 만들어주기.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/시간 최적화/1_괄호 쌍 만들어주기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성 코테 대비/코드트리/시간 최적화/우선순위큐_2_큰 숫자만 계속 고르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/시간 최적화/우선순위큐_2_큰 숫자만 계속 고르기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이진탐색_1300_k번째 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/이진탐색_1300_k번째 수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이진탐색_1920_원하는 정수 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/이진탐색_1920_원하는 정수 찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이진탐색_2343_기타레슨.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 공부/이진탐색_2343_기타레슨.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +183,7 @@
     "Python.8_격자 안에서 단일 객체를 이동.executor": "Run",
     "Python.9_격자 안에서 여러 객체를 이동.executor": "Run",
     "Python.T.executor": "Run",
+    "Python.Test.executor": "Run",
     "Python.c_3_격자에서의 dx, dy.executor": "Run",
     "Python.c_4_조건에 따라 방향이 변하는 경우.executor": "Debug",
     "Python.c_5_빙빙 돌며 숫자 적기.executor": "Run",
@@ -82,6 +191,7 @@
     "Python.test.executor": "Run",
     "Python.구현_3_게임개발.executor": "Run",
     "Python.기본 예제. 피보나치 수열.executor": "Run",
+    "Python.기출_백준_틱택토.executor": "Run",
     "Python.스택.executor": "Run",
     "Python.우선순위큐_2_큰 숫자만 계속 고르기.executor": "Run",
     "Python.파이프 옮기기 1.executor": "Run",
@@ -96,36 +206,14 @@
       <recent name="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/코딩테스트 대비" />
+      <recent name="$PROJECT_DIR$/알고리즘 공부" />
       <recent name="$PROJECT_DIR$/삼성 코테 대비/코드트리" />
       <recent name="$PROJECT_DIR$/삼성 코테 대비/DFS BFS/2_BFS" />
       <recent name="$PROJECT_DIR$/삼성 코테 대비/구현/dx,dy 테크닉" />
-      <recent name="$PROJECT_DIR$/삼성 코테 대비" />
-      <recent name="$PROJECT_DIR$/삼성 코테 대비/구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="1_괄호 쌍 만들어주기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_for_CodingTest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/코드트리/시간 최적화" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/코드트리/시간 최적화/1_괄호 쌍 만들어주기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Test">
     <configuration name="2023 상반기 오전 1번 - 포탑 부수기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
@@ -148,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_n개 중 m개 고르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/2_n개 중 m개 고르기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스/Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,6 +272,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/코드트리/시간 최적화/우선순위큐_2_큰 숫자만 계속 고르기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="기출_백준_틱택토" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_for_CodingTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스/기출_백준_틱택토.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,11 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.기출_백준_틱택토" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.2023 상반기 오전 1번 - 포탑 부수기" />
         <item itemvalue="Python.우선순위큐_2_큰 숫자만 계속 고르기" />
-        <item itemvalue="Python.1_괄호 쌍 만들어주기" />
-        <item itemvalue="Python.2_n개 중 m개 고르기" />
       </list>
     </recent_temporary>
   </component>
@@ -257,137 +367,137 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/구현_3_게임개발.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/구현_3_게임개발.py</url>
           <line>30</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/구현_3_게임개발.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/구현_3_게임개발.py</url>
           <line>33</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/구현_3_게임개발.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/구현_3_게임개발.py</url>
           <line>34</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/구현_3_게임개발.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/구현_3_게임개발.py</url>
           <line>60</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/구현_3_게임개발.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/구현_3_게임개발.py</url>
           <line>62</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/3_음료수 얼려먹기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/3_음료수 얼려먹기.py</url>
           <line>25</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/3_음료수 얼려먹기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/3_음료수 얼려먹기.py</url>
           <line>19</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/4_미로탈출.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/4_미로탈출.py</url>
           <line>16</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/4_미로탈출.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/4_미로탈출.py</url>
           <line>21</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/4_미로탈출.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/4_미로탈출.py</url>
           <line>15</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/4_미로탈출.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/4_미로탈출.py</url>
           <line>14</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/dx,dy 테크닉/c_4_조건에 따라 방향이 변하는 경우.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/dx,dy 테크닉/c_4_조건에 따라 방향이 변하는 경우.py</url>
           <line>33</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/dx,dy 테크닉/c_5_빙빙 돌며 숫자 적기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/dx,dy 테크닉/c_5_빙빙 돌며 숫자 적기.py</url>
           <line>6</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/6_ 격자 안에서 밀고 당기기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/6_ 격자 안에서 밀고 당기기.py</url>
           <line>40</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/6_ 격자 안에서 밀고 당기기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/6_ 격자 안에서 밀고 당기기.py</url>
           <line>37</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/구현/8_격자 안에서 단일 객체를 이동.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/구현/8_격자 안에서 단일 객체를 이동.py</url>
           <line>25</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/1_DFS/1_그래프 상에서의 DFS 탐색.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/1_DFS/1_그래프 상에서의 DFS 탐색.py</url>
           <line>13</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/1_DFS/2_그리드 상에서의 DFS 탐색.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/1_DFS/2_그리드 상에서의 DFS 탐색.py</url>
           <line>35</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/2_BFS/2_BFS_네 방향 탈출 가능 여부 판별하기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/2_BFS/2_BFS_네 방향 탈출 가능 여부 판별하기.py</url>
           <line>35</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/DFS BFS/2_BFS/3_가중치가 동일한 그래프에서의 BFS.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/DFS BFS/2_BFS/3_가중치가 동일한 그래프에서의 BFS.py</url>
           <line>43</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
           <line>13</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
           <line>14</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
           <line>15</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
           <line>18</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
           <line>17</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/코드트리/백트래킹/1_k개 중 하나를 N번 선택하기.py</url>
           <line>19</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023/2023 상반기 오전 2번 문제.py</url>
+          <url>file://$PROJECT_DIR$/코딩테스트 대비/삼성/기출 정답/2023/2023 상반기 오전 2번 문제.py</url>
           <line>13</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>

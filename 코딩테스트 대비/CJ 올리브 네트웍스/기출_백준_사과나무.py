@@ -36,12 +36,16 @@ def in_range(i,j):
 answer = sum[0][0]
 
 for k in range(1,n):
+
     for i in range(n):
         for j in range(n):
+
             if i < k-1 or j < k-1:
                 continue
+
             if k == 1:
                 temp = apple[i][j]
+
             else:
                 temp = sum[i][j]
 

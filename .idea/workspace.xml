@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f077cd74-0654-4541-a295-c178cbb35597" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스/기출_백준_사과나무.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,54 +35,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1_DFS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_k개 중 하나를 N번 선택하기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_객체정렬.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_괄호 쌍 만들어주기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_그래프 상에서의 DFS 탐색.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1로 만들기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2023 상반기 오전 1번 - 포탑 부수기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_1부터 N까지 숫자 중 합이 10이 되는 조합 구하기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_BFS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_BFS_네 방향 탈출 가능 여부 판별하기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_n개 중 m개 고르기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_객체 생성 및 값 변경.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_그리드 상에서의 DFS 탐색.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_여러 우선순위를 갖는 객체 정렬.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_가중치가 동일한 그래프에서의 BFS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_객체를 원소로 하는 리스트.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_음료수 얼려먹기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_정렬 기준이 복잡한 객체 정렬.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_객체 정렬시 index 멤버 변수의 필요성.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_미로탈출.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.5_ 격자 안에서 밀고 당기기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_격자 안에서의 완전탐색.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6_ 격자 안에서 밀고 당기기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_격자 안에서 터지고 떨어지는 경우.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_격자 안에서 단일 객체를 이동.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9_격자 안에서 여러 객체를 이동.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.c_3_격자에서의 dx, dy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.c_4_조건에 따라 방향이 변하는 경우.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.c_5_빙빙 돌며 숫자 적기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coding test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.구현_3_게임개발.executor&quot;: &quot;Run&quot;,
-    &quot;Python.기본 예제. 피보나치 수열.executor&quot;: &quot;Run&quot;,
-    &quot;Python.기출_백준_틱택토.executor&quot;: &quot;Run&quot;,
-    &quot;Python.스택.executor&quot;: &quot;Run&quot;,
-    &quot;Python.우선순위큐_2_큰 숫자만 계속 고르기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.파이프 옮기기 1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/p_kxn_g/Documents/GitHub/Algorithm_for_CodingTest/삼성 코테 대비/기출 정답/2023&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1_DFS.executor": "Run",
+    "Python.1_class.executor": "Run",
+    "Python.1_k개 중 하나를 N번 선택하기.executor": "Run",
+    "Python.1_객체정렬.executor": "Run",
+    "Python.1_괄호 쌍 만들어주기.executor": "Run",
+    "Python.1_그래프 상에서의 DFS 탐색.executor": "Run",
+    "Python.1로 만들기.executor": "Run",
+    "Python.2023 상반기 오전 1번 - 포탑 부수기.executor": "Run",
+    "Python.2_1부터 N까지 숫자 중 합이 10이 되는 조합 구하기.executor": "Run",
+    "Python.2_BFS.executor": "Run",
+    "Python.2_BFS_네 방향 탈출 가능 여부 판별하기.executor": "Run",
+    "Python.2_n개 중 m개 고르기.executor": "Run",
+    "Python.2_객체 생성 및 값 변경.executor": "Run",
+    "Python.2_그리드 상에서의 DFS 탐색.executor": "Run",
+    "Python.2_여러 우선순위를 갖는 객체 정렬.executor": "Run",
+    "Python.3_가중치가 동일한 그래프에서의 BFS.executor": "Run",
+    "Python.3_객체를 원소로 하는 리스트.executor": "Run",
+    "Python.3_음료수 얼려먹기.executor": "Run",
+    "Python.3_정렬 기준이 복잡한 객체 정렬.executor": "Run",
+    "Python.4_객체 정렬시 index 멤버 변수의 필요성.executor": "Run",
+    "Python.4_미로탈출.executor": "Debug",
+    "Python.5_ 격자 안에서 밀고 당기기.executor": "Run",
+    "Python.5_격자 안에서의 완전탐색.executor": "Run",
+    "Python.6_ 격자 안에서 밀고 당기기.executor": "Run",
+    "Python.7_격자 안에서 터지고 떨어지는 경우.executor": "Run",
+    "Python.8_격자 안에서 단일 객체를 이동.executor": "Run",
+    "Python.9_격자 안에서 여러 객체를 이동.executor": "Run",
+    "Python.T.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.c_3_격자에서의 dx, dy.executor": "Run",
+    "Python.c_4_조건에 따라 방향이 변하는 경우.executor": "Debug",
+    "Python.c_5_빙빙 돌며 숫자 적기.executor": "Run",
+    "Python.coding test.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.구현_3_게임개발.executor": "Run",
+    "Python.기본 예제. 피보나치 수열.executor": "Run",
+    "Python.기출_백준_사과나무.executor": "Run",
+    "Python.기출_백준_틱택토.executor": "Run",
+    "Python.스택.executor": "Run",
+    "Python.우선순위큐_2_큰 숫자만 계속 고르기.executor": "Run",
+    "Python.파이프 옮기기 1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/p_kxn_g/Documents/GitHub/Algorithm_for_CodingTest/삼성 코테 대비/기출 정답/2023",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/삼성 코테 대비/기출 정답/2023" />
@@ -94,7 +96,7 @@
       <recent name="$PROJECT_DIR$/삼성 코테 대비/구현/dx,dy 테크닉" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Test">
+  <component name="RunManager" selected="Python.기출_백준_사과나무">
     <configuration name="2023 상반기 오전 1번 - 포탑 부수기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
@@ -139,28 +141,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="우선순위큐_2_큰 숫자만 계속 고르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_for_CodingTest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성 코테 대비/코드트리/시간 최적화" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성 코테 대비/코드트리/시간 최적화/우선순위큐_2_큰 숫자만 계속 고르기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="기출_백준_틱택토" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_for_CodingTest" />
       <option name="ENV_FILES" value="" />
@@ -175,6 +155,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스/기출_백준_틱택토.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="기출_백준_사과나무" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_for_CodingTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/코딩테스트 대비/CJ 올리브 네트웍스/기출_백준_사과나무.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.기출_백준_사과나무" />
         <item itemvalue="Python.Test" />
         <item itemvalue="Python.기출_백준_틱택토" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.2023 상반기 오전 1번 - 포탑 부수기" />
-        <item itemvalue="Python.우선순위큐_2_큰 숫자만 계속 고르기" />
       </list>
     </recent_temporary>
   </component>
